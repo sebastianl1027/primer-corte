@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Preguntame</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_add">Agregar</string>
+    <string name="menu_more">Mas</string>
+    <string name="menu_about">Acerca de</string>
+    <string name="menu_info">Informacion</string>
+    <string name="menu_edit">Edit</string>
+    <string name="menu_delete">Eliminar</string>
+
+    <string-array name="preguntas">
+        <item>Historia,primaria,¿Descubridor de america?</item>
+        <item>Deportes,Ocio,¿Mejor Jugador del mundo?</item>
+        <item>Historia,bachillerato,¿Cua es el mejor invento de la Historia?</item>
+        <item>Matematicas,Bachillerto,¿Teorema Pitagoras?</item>
+        <item>Programacion,universitario,¿Programacion en java?</item>
+    </string-array>
+    <string-array name="title_activity_pregunta">Preguntas</string-array>
+    <string name="title_activity_add">AddActivity</string>
+    <string name="add_pregunta">Pregunta</string>
+    <string name="add_categoria">categoria</string>
+    <string name="add_nivel_educativo">Nivel_Educativo</string>
+</resources>
